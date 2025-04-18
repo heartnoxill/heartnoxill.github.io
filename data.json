@@ -1,0 +1,39 @@
+{
+    "name": "Paul's portfolio",
+    "icon": "./assets/logo.jpg",
+
+    "pages": [
+        {
+            "icon": "🖥",
+            "name": "About",
+            "link": "/about",
+            "content": "content/about.md"
+        },
+
+        {
+            "icon": "🏢",
+            "name": "Work Experience",
+            "link": "/experience",
+            "content": "content/experience.md"
+        },
+        {
+            "icon": "🔥",
+            "name": "Projects",
+            "link": "/project",
+            "content": "content/projects.md"
+        },
+        {
+            "icon": "✨",
+            "name": "Skills",
+            "link": "/skills",
+            "content": "content/skills.md"
+        },
+        {
+            "icon": "✉️",
+            "name": "Contact",
+            "link": "/contact",
+            "content": "content/contact.md"
+        }
+    ]
+
+}
